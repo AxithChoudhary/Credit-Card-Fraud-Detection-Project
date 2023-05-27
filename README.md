@@ -24,4 +24,10 @@ The project pipeline can be summarized in the following five steps:
 **6. Model Evaluation:** Evaluate the models using appropriate evaluation metrics. Given the imbalanced data, prioritize accurate identification of fraudulent transactions over
 
 ## Results
+Accuracy Score:  0.9993118170837898
+ROC AUC Score:  0.9333891817274544
 
+Classification Report: 
+    precision    recall  f1-score   support
+0       1.00      1.00      1.00     71089
+1       0.74      0.87      0.80       113
