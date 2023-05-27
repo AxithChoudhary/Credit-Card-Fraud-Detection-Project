@@ -25,7 +25,7 @@ The project pipeline can be summarized in the following five steps:
 
 ## Results 
 Accuracy Score:  0.9993118170837898\
-ROC AUC Score:  0.9333891817274544\
+ROC AUC Score:  0.9333891817274544
 
 Classification Report:\
     precision    recall  f1-score   support\
